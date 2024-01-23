@@ -1,0 +1,5 @@
+[2024-01-23 09:56:12,272] 20 root - INFO - data ingestion started
+[2024-01-23 09:56:12,272] 22 root - INFO - Data reading using pandas library from local system
+[2024-01-23 09:56:12,300] 24 root - INFO - Data reading completed
+[2024-01-23 09:56:12,362] 28 root - INFO - Data splitted into train and test
+[2024-01-23 09:56:12,417] 33 root - INFO - Data ingestion completed
