@@ -62,7 +62,7 @@ class CustomClass:
                 "marital_status": [self.marital_status],
                 "occupation": [self.occupation],
                 "relationship": [self.relationship],
-                "race": self.[race],
+                "race": [self.race],
                 "sex": [self.sex],
                 "capital_gain": [self.capital_gain],
                 "capital_loss": [self.capital_loss],
